@@ -49,7 +49,7 @@ const NavBar = () => {
         </a>
 
         <nav className="navbar">
-          <Link href="#home">
+          <Link href="#">
             <a>Home</a>
           </Link>
           <Link href="#about">
